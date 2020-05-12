@@ -1,11 +1,8 @@
 References:
 
-Percolation:
-(examples of percolation model my model takes inspiration from)
-https://www.complexity-explorables.org/explorables/baristas-secret/
-https://scipython.com/blog/the-forest-fire-model/.
+Berkowitz, Brian & Balberg, Isaac. (1993)[Online]. Percolation theory and its application to groundwater hydrology. Water Resources Research
+ Anderson W. Geology and Water [Online]. Geology and Water University of Northern Iowa. https://uni.edu/~andersow/geologyandwater.html [11 May 2020].
+Forest Fire Model [Online]. The Forest-fire model. https://scipython.com/blog/the-forest-fire-model/ [10 May 2020].
+Voyle G, Hudson H. What to do about compacted soil [Online]. MSU Extension: 2018. https://www.canr.msu.edu/news/what_to_do_about_compacted_soil [11 May 2020].
+Nielsen, A. M. Neural Networks and Deep Learning [Online]. Neural networks and deep learning Determination Press: 2019. http://neuralnetworksanddeeplearning.com/index.html [11 May 2020].
 
-(physics background in papers)
-https://www.researchgate.net/profile/Brian_Berkowitz/publication/241060386_Percolation_theory_and_its_application_to_groundwater_hydrology/links/575e8f6c08aed884621b457a/Percolation-theory-and-its-application-to-groundwater-hydrology.pdf
-https://www.fluencecorp.com/what-is-percolation/
-https://www.sciencedirect.com/topics/earth-and-planetary-sciences/percolating-water
